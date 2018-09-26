@@ -1,0 +1,4 @@
+name:mnist1
+framework:tensorflow
+docker_image:
+script_entry_point:launch.sh
