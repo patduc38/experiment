@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-echo "on branch v1"
+echo "on v1 branch"
