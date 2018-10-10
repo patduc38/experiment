@@ -1,4 +1,3 @@
 #!/bin/bash 
 
-echo tototiti
-echo tutu
+echo "on branch v1"
