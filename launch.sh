@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-echo "on modified master branch"
+echo "on  master branch"
