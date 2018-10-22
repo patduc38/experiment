@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-echo "on v1 branch modified withh cedric"
+echo "on v1 branch"
