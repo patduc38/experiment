@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-echo "on  master branch"
+echo "on master branch"
